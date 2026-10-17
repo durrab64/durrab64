@@ -168,20 +168,21 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 ---
 
 
-### 📊 The Field of Battle
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=durrab64&bg_color=000000&color=C9C3D5&line=9B59B6&point=BB86FC&area=true&area_color=6A0DAD&hide_border=true&custom_title=Sledge%27s%20Activity%20Timeline"
-    alt="Sledge's GitHub Activity Graph"
-  />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=durrab64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sledge's GitHub Stats" />
+
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=durrab64&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sledge's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=durrab64&theme=tokyonight&hide_border=true" alt="Sledge's GitHub Streak" />
 </div>
 
 ---
 
-
----
 
 ### :eye: Quote of the Day
 
