@@ -167,13 +167,19 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 ---
 
-### :bar_chart: The Field of Battle
+
+### 📊 The Field of Battle
 
 <div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durrab64&bg_color=0D0618&color=C9C3D5&line=9B59B6&point=BB86FC&area=true&hide_border=true&custom_title=Sledge's%20Activity%20Timeline" alt="Sledge's GitHub Activity Graph"/>
-
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=durrab64&bg_color=000000&color=C9C3D5&line=9B59B6&point=BB86FC&area=true&area_color=6A0DAD&hide_border=true&custom_title=Sledge%27s%20Activity%20Timeline"
+    alt="Sledge's GitHub Activity Graph"
+  />
 </div>
+
+---
+
 
 ---
 
