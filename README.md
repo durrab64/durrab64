@@ -177,7 +177,7 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 ---
 
-### :eye: Kyōka Suigetsu
+### :eye: Quote of the Day
 
 <div align="center">
 
