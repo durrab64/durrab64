@@ -164,6 +164,41 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 </div>
 
+
+---
+
+### :bar_chart: The Field of Battle
+
 <div align="center">
-  <i>Let's Connect!</i><br>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durrab64&bg_color=0D0618&color=C9C3D5&line=9B59B6&point=BB86FC&area=true&hide_border=true&custom_title=Sledge's%20Activity%20Timeline" alt="Sledge's GitHub Activity Graph"/>
+
 </div>
+
+---
+
+### :eye: Kyōka Suigetsu
+
+<div align="center">
+
+  <h3>
+    "Since when were you under the impression that I wasn't using <b>Kyōka Suigetsu</b>?"
+  </h3>
+
+  <i>— Sosuke Aizen</i>
+
+</div>
+
+---
+
+### :video_game: Pac-Man — Contribution Hunt
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg" alt="Pac-Man GitHub Contribution Animation" width="100%"/>
+
+</div>
+
+---
+
+
