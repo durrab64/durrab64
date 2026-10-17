@@ -23,7 +23,7 @@ jobs:
           github_user_name: durrab64
 
       - name: Publish SVG files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
