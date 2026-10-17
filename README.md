@@ -140,9 +140,9 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 | Event | Placement | Achievement |
 | :--- | :---: | :--- |
-| 🌍 International Tournament | **Top 17** | Reported placement among 250+ players |
-| 🥉 SOFTEC | **3rd Place** | University Tekken tournament |
-| 🎮 PUCon | **Top 8** | Reported 7th–8th place finish |
+| 🌍 ULTIMATE IRON FIST TOURNAMENT-2025 | **Top 17** | Reported placement among 236 players |
+| 🥉 SOFTEC-2025 | **3rd Place** | FAST University Tekken7 tournament |
+| 🎮 IEEE GCU-2026 | **3rd Place** | 3rd Place finish at GCU Tekken8 Tournament |
 
 ---
 
