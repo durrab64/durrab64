@@ -60,7 +60,7 @@ I am a passionate Computer Science student and creative editor. My journey invol
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
-<img src="https://github.com/durrab64/durrab64/edit/main/README.md" alt="profile views" />
+<img src="[https://github.com/durrab64/durrab64/edit/main/README.md](https://count.getloli.com/@Sledge?theme=miku&padding=7&offset=2&align=center&scale=0.9&pixelated=1&darkmode=auto)" alt="profile views" />
 
 ### 🏆 Competitive Gaming Career
 **Main Title:** <img src="https://img.shields.io/badge/Tekken%208-FF4500.svg?style=flat&logo=tekken&logoColor=white" />
