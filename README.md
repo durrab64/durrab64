@@ -35,14 +35,47 @@
 ---
 
 
-### 🚀 About Me
-I am a passionate Computer Science student and creative editor. My journey involves compiling code, rendering pixels, and grinding for rank. I love building practical web solutions, understanding the logic behind the machine, and competing at the highest level in Tekken.
+ <img src="NicePng_aizen-png_1723431.png" width="260" align="right" alt="Sosuke Aizen" />
 
-- 🔭 I’m currently working on: **Full Stack Web Development**
-- 🎓 University Coursework: **Data Structures (DS), OOP, Databases (DB), & Digital Logic Design (DLD)**
-- ⚡ Fun fact: I treat debugging code just like a frame-perfect punish.
+### 🟣 About Me — Beyond the Limits
+
+*“Admiration is the furthest thing from understanding.”*
+
+Computer Science student, developer, video editor, and esports athlete. I explore different fields, build projects, create content, and keep leveling up.
+
+```text
+╔══════════ SYSTEM NOTIFICATION ══════════╗
+║                                         ║
+║  Player    : Muhammad Durrab            ║
+║  Alias     : Sledge                     ║
+║  Class     : Developer / Creator        ║
+║  Rank      : E → ???                    ║
+║  Weapon    : Keyboard + Creativity      ║
+║  Main Stack: Node.js | React | UI/UX    ║
+║  Arsenal   : After Effects | Premiere   ║
+║              Pro | Photoshop            ║
+║  Passive   : Adaptability               ║
+║  Objective : Build. Create. Compete.    ║
+║                                         ║
+╚═════════════════════════════════════════╝
+```
+
+- 🔮 Exploring frontend, backend, UI/UX, and software development.
+- ⚔️ Competing in Tekken and improving through every match.
+- 🎬 Creating gaming content, edits, and visual experiences.
+- 🧪 Learning by building projects and experimenting with new ideas.
+
+<br clear="right" />
 
 ---
+
+<div align="center">
+
+*“Power is not given. It is taken.”*
+
+**WELCOME TO MY DOMAIN**
+
+</div>
 
 ### 🛠️ Tech Stack & Arsenal
 
