@@ -225,7 +225,13 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 ---
 
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=#3A065C&height=120&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=6a0dad&height=120&section=footer"
+    width="100%"
+    alt="Purple venom footer"
+  />
 </div>
+
 
