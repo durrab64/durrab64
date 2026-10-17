@@ -193,15 +193,25 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 
 
-<h3>👾 Pac-Man — Contribution Hunt</h3>
 
-<p align="center">
+### 👾 Pac-Man — Contribution Hunt
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph.svg"
+  />
   <img
-    src="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph.svg"
     alt="Sledge's Pac-Man contribution animation"
+    src="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph.svg"
     width="100%"
   />
-</p>
+</picture>
+
 
 
 
