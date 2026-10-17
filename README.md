@@ -24,12 +24,16 @@
 </a>
 
  <!-- Miku Visitor Counter -->
-</div>
-<br/><br/>
+
+ <br/><br/>
 
 <h4>:eye: Soul Society Visitors Count</h4>
 
 <img src="https://count.getloli.com/@Sledge?theme=miku&padding=7&offset=2&align=center&scale=0.9&pixelated=1&darkmode=auto" alt="profile views" />
+</div>
+
+---
+
 
 ### 🚀 About Me
 I am a passionate Computer Science student and creative editor. My journey involves compiling code, rendering pixels, and grinding for rank. I love building practical web solutions, understanding the logic behind the machine, and competing at the highest level in Tekken.
