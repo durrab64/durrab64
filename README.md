@@ -1,4 +1,9 @@
+
+
 <div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type={shape}&color=0%3A{c1.replace("#","")},100%3A{c2.replace("#","")}&height={h}&section=header&text={heading}&fontSize=65&fontColor={font}&animation={anim}&fontAlignY=65" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Code&weight=700&size=22&pause=1200&color=9B59B6&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I+am+Muhammad+Durrab+%F0%9F%91%8B;Node.js+%7C+React+%7C+UI%2FUX;After+Effects+%7C+Premiere+Pro+%7C+Photoshop;Developer+%7C+Video+Editor+%7C+Esports%20Athlete" alt="Typing SVG" /></a>
 
