@@ -191,13 +191,28 @@ Computer Science student, developer, video editor, and esports athlete. I explor
 
 ---
 
-### :video_game: Pac-Man — Contribution Hunt
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg" alt="Pac-Man GitHub Contribution Animation" width="100%"/>
+  <h3>👾 Pac-Man — Contribution Hunt</h3>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph.svg">
+
+    <img
+      alt="Sledge's Pac-Man contribution animation"
+      src="https://raw.githubusercontent.com/durrab64/durrab64/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
 
 </div>
+
 
 ---
 
