@@ -1,9 +1,28 @@
-# Hi there, I'm a Developer & Creator! 👋
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Code&weight=700&size=22&pause=1200&color=9B59B6&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I+am+Muhammad+Durrab+%F0%9F%91%8B;Node.js+%7C+React+%7C+UI%2FUX;After+Effects+%7C+Premiere+Pro+%7C+Photoshop;Developer+%7C+Video+Editor+%7C+Esports%20Athlete" alt="Typing SVG" /></a>
+
+</div>
+
+ <!-- Sosuke Aizen Theme — Contact Channels -->
 
 <div align="center">
-  <h3> 👨‍💻 Coder | 🎬 Video Editor | 🎮 Esports Athlete </h3>
-  <br/>
+
+<a href="https://github.com/durrab64">
+  <img src="https://img.shields.io/badge/GoryuTenmitsu_hub-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=0D001A" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Cour_Guard_13-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D001A" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/Hogyoku_Network-LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D001A" height="32" />
+</a>
+
 </div>
+
+<img src="https://count.getloli.com/@Sledge?theme=miku&padding=7&offset=2&align=center&scale=0.9&pixelated=1&darkmode=auto" alt="profile views" />
 
 ### 🚀 About Me
 I am a passionate Computer Science student and creative editor. My journey involves compiling code, rendering pixels, and grinding for rank. I love building practical web solutions, understanding the logic behind the machine, and competing at the highest level in Tekken.
@@ -60,7 +79,7 @@ I am a passionate Computer Science student and creative editor. My journey invol
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
-<img src="https://count.getloli.com/@Sledge?theme=miku&padding=7&offset=2&align=center&scale=0.9&pixelated=1&darkmode=auto" alt="profile views" />
+
 
 ### 🏆 Competitive Gaming Career
 **Main Title:** <img src="https://img.shields.io/badge/Tekken%208-FF4500.svg?style=flat&logo=tekken&logoColor=white" />
