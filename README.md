@@ -22,9 +22,12 @@
 <a href="YOUR_LINKEDIN_URL_HERE">
   <img src="https://img.shields.io/badge/Hogyoku_Network-LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D001A" height="32" />
 </a>
-<br><br>
+
  <!-- Miku Visitor Counter -->
 </div>
+<br/><br/>
+
+<h4>:eye: Soul Society Visitors Count</h4>
 
 <img src="https://count.getloli.com/@Sledge?theme=miku&padding=7&offset=2&align=center&scale=0.9&pixelated=1&darkmode=auto" alt="profile views" />
 
